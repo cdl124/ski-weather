@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "code-501-react-boilerplate",
+  "name": "ski-weather",
   "version": "1.0.0",
-  "description": "Boilerplate for [Code 501: React + Redux](https://www.codefellows.org/courses/code-501/web-application-development-with-react-and-redux/)",
+  "description": "A ski weather app for Washington State ski resorts.",
   "scripts": {
     "stats": "webpack --profile --json > stats.json",
     "start": "webpack-dev-server",
@@ -12,9 +12,9 @@
     "test:tdd": "npm run test -- --auto-watch --no-single-run"
   },
   "author": {
-    "name": "Emily Aviva Kapor-Mater",
-    "email": "emily@emilyaviva.com",
-    "url": "https://www.emilyaviva.com/"
+    "name": "Cortney Drummond",
+    "email": "cortney.d.drummond@gmail.com",
+    "url": "http://www.cortneydrummond.com"
   },
   "license": "MIT",
   "dependencies": {
